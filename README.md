@@ -17,7 +17,6 @@ I'm a passionate developer who loves crafting cross-platform mobile apps 📱 an
   🌟 Fun Fact: I optimized an Android TV app to run 24/7 without a crash! 😎  
   📍 Location: Ukraine  
   🧠 Currently Exploring: Open-source projects, AI integrations, and new frameworks.  
-  📬 Connect: LinkedIn | Email
 
 
 
