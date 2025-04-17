@@ -1,129 +1,94 @@
+# 👋 Hey there! I'm Oleg Opalko 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oleg-opalko&label=Profile%20views&color=blueviolet&style=flat" alt="oleg-opalko" /> </p>
 
-🌟 Hey, I'm Oleg Opalko! 🚀
+Passionate **Mobile & Backend Developer** from Ukraine 🇺🇦 with 4+ years of experience building awesome cross-platform apps 📱 and scalable web solutions 🛠️.
 
-Mobile & Backend Developer from 🇺🇦 Ukraine | 4+ Years Building Awesome Apps & Web Solutions
+I thrive on crafting seamless user experiences, optimizing performance, and tackling challenging problems in the world of **Xamarin, Kotlin, Python/Django, and .NET**.
 
+---
 
+###  About Me
 
-I'm a passionate developer who loves crafting cross-platform mobile apps 📱 and scalable backends 🛠 with Xamarin, Kotlin, Python/Django, and .NET. From fitness apps to 24/7 video streaming, I build solutions that shine! ✨
+*   👨‍💻 Building smooth mobile experiences (**Android, iOS, TV Platforms**) and robust backend systems.
+*   🔥 Driven by performance optimization, clean code, and delivering top-notch UX.
+*   💡 Currently exploring **Open Source**, AI integrations, and new tech frontiers.
+*   🚀 **Fun Fact:** Optimized an Android TV app for flawless **24/7 streaming** without a single crash! 😎
+*   📍 Based in Ukraine 🇺🇦
 
+---
 
+### 🛠️ My Tech Stack
 
-🌍 About Me
+<p align="left">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994184663aa60e7bada1/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://azure.microsoft.com/en-us/services/devops/pipelines/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azurepipelines" width="40" height="40"/> </a>
+</p>
 
-  💻 What I Do: Build mobile apps for Android, iOS, and TVs, plus robust web backends.  
-  🔥 My Passion: Optimizing performance, squashing bugs, and delivering seamless UX.  
-  🌟 Fun Fact: I optimized an Android TV app to run 24/7 without a crash! 😎  
-  📍 Location: Ukraine  
-  🧠 Currently Exploring: Open-source projects, AI integrations, and new frameworks.  
+*   **Languages:** Python, C#, Kotlin
+*   **Mobile:** Android (Native & TV), iOS (via Xamarin), Xamarin.Forms, Xamarin Native, TV Platforms (Apple TV, Android TV, Fire TV, Roku)
+*   **Backend:** Django, ASP.NET Core Web API, SignalR
+*   **Frameworks/Libraries:** MVVMCross, Entity Framework Core, Retrofit, Refit, ExoPlayer, Prism
+*   **Databases:** PostgreSQL, Elasticsearch
+*   **Tools:** Visual Studio, Android Studio, Xcode, Git, Docker, Azure Pipelines
+*   **Other Skills:** Push Notifications, Deep Linking, API Integration, Query Optimization, CI/CD
 
+---
 
+### 📊 GitHub Stats
 
-🛠 My Tech Stack 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oleg-opalko&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-opalko&layout=compact&langs_count=8&theme=radical"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oleg-opalko&theme=radical" alt="oleg-opalko" />
+</p>
 
+---
 
-💻 Programming Languages
+### 🚀 Featured Projects Snippets
 
-  🐍 Python: 80%   
-  #️⃣ C#: 90%   
-  ☕ Kotlin: 75% 
+*   **Massage & Spa Booking App (Xamarin):** Smoothed UX, added calendar filters, streamlined CI/CD.
+*   **24/7 Android TV Streaming App (Kotlin):** Built from scratch, real-time updates (SignalR), optimized for 24/7 stability.
+*   **Fitness & Yoga Streaming Apps (Xamarin):** Developed for iOS, Android, Apple TV, Fire TV, Roku; integrated deep linking.
+*   **Agricultural Marketplace App (Xamarin + .NET):** Implemented push notifications, deep linking, Elasticsearch search.
+*   **Electricity Monitoring System (.NET + Xamarin):** Created Raspberry Pi data collector, mobile reporting apps, and API backend.
+*   **Restaurant Management Web App (Django):** Full CRUD web app with Django Admin and role-based access, optimized queries.
 
-📱 Mobile Platforms
+---
 
-  🤖 Android: Native & TV apps  
-  🍎 iOS: Smooth cross-platform solutions  
-  📺 TV Platforms: Apple TV, Android TV, Fire TV, Roku
+### 🎓 Education
 
-🧰 Frameworks & Libraries
+*   **M.Sc. in Computer Science** - West Ukrainian National University
+*   **B.Sc. in Mathematical & Computer Software Systems** - Ternopil National Economic University
 
-  📱 Xamarin.Forms & Xamarin Native: Cross-platform mobile apps  
-  🔄 MVVMCross: Clean app architecture  
-  🌐 ASP.NET Core Web API: Powerful backends  
-  🗄 Entity Framework Core: Database magic  
-  🚀 Django: Scalable web apps  
-  🔌 SignalR: Real-time features  
-  📡 Retrofit & Refit: API integrations  
-  🎥 ExoPlayer: Video streaming  
-  🖼 Prism: Elegant UIs
-  
-  🗃 Databases
-  
-  🐘 PostgreSQL: Reliable storage  
-  🔍 Elasticsearch: Fast search
+---
 
-🛠 Tools
+### 🌐 Languages
 
-  🖥 Visual Studio: My coding playground  
-  🤖 Android Studio: Android app crafting  
-  🍏 Xcode: iOS app polishing  
-  🐳 Docker: Containerized workflows  
-  📦 Git: Version control mastery  
-  🔄 Azure Pipelines: CI/CD automation
+*   🇬🇧 **English:** Intermediate (B1+)
+*   🇺🇦 **Ukrainian:** Native
 
-✨ Other Skills
+---
 
-  🔔 Push Notifications  
-  🔗 Deep Linking  
-  ⚡ Query Optimization
+### 📫 Get In Touch!
 
+<p align="left">
+<a href="https://linkedin.com/in/oleh-opalko-b10b7619b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+</p>
 
-🚀 Featured Projects 🎉
-  🧘 Massage & Spa Booking App (2024)
-  📱 Role: Xamarin Developer🔧 Tech: C#, Xamarin.Forms, MVVMCross, Refit, Azure Pipelines🌟 Highlights:  
-  
-  Fixed bugs for a buttery-smooth experience.  
-  Added filters to a custom calendar for bookings.  
-  Streamlined CI/CD and shipped to Play Store & App Store.
+*   Looking for opportunities to collaborate on innovative mobile or backend projects.
+*   Open to freelance gigs or full-time roles where I can make an impact.
+*   Let's connect and build something amazing! ✨
 
-📺 24/7 Video Streaming for Android TV (2023–2024)
-  📱 Role: Android Developer🔧 Tech: Kotlin, Retrofit, SignalR, ExoPlayer🌟 Highlights:  
-  
-  Built a streaming app from scratch.  
-  Integrated SignalR for real-time updates.  
-  Optimized for 24/7 uptime.
-
-🏋️ Fitness & Yoga Streaming Apps (2021–2023)
-  📱 Role: Xamarin Developer🔧 Tech: C#, Xamarin.Forms, MVVMCross, Roku🌟 Highlights:  
-  
-  Developed apps for iOS, Android, and multiple TV platforms.  
-  Added deep linking for seamless navigation.  
-  Ensured smooth video streaming.
-
-🌾 Agricultural Marketplace App (2020–2021)
-  📱 Role: Xamarin Developer🔧 Tech: C#, Xamarin.Forms, ASP.NET Core, Elasticsearch🌟 Highlights:  
-  
-  Integrated push notifications and deep linking.  
-  Built a marketplace with Elasticsearch search.
-
-⚡️ Electricity Monitoring System (2020)
-  📱 Role: .NET Developer🔧 Tech: C#, Xamarin.Forms, ASP.NET Web API, PostgreSQL, RaspberryPi🌟 Highlights:  
-  
-  Created a RaspberryPi app for meter data.  
-  Built mobile apps for usage reports.  
-  Developed a PostgreSQL-backed API.
-
-🍽️ Restaurant Management Web App (2024)
-  📱 Role: Python Django Developer🔧 Tech: Python, Django, PostgreSQL, JavaScript🌟 Highlights:  
-  
-  Built a web app with full CRUD functionality.  
-  Added Django Admin and role-based access.  
-  Optimized queries for performance.
-
-
-🎓 Education 📚
-  🎓 Master's in Computer ScienceWest Ukrainian National University, Ukraine  
-  🎓 Bachelor's in Mathematical & Computer Software SystemsTernopil National Economic University, Ukraine
-
-
-🌐 Languages 🗣
-
-  🇬🇧 English: Intermediate (B1+)  
-  🇺🇦 Ukrainian: Native
-
-
-🌟 Let’s Create Something Epic!
-I’m thrilled to work on innovative projects, from mobile apps to scalable backends. Check out my repos, ping me, or let’s team up to build the next big thing! 😎
-
-  
-Thanks for stopping by! Let’s code the future! 🌌
+---
