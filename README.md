@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Oleg Opalko 🚀
+# 👋 Hey there! I'm Oleh Opalko 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleg-opalko&label=Profile%20views&color=blueviolet&style=flat" alt="oleg-opalko" /> </p>
 
